@@ -1,0 +1,23 @@
+/* SPDX-License-Identifier: GPL-2.0-or-later */
+
+#pragma once
+
+#define VIAL_KEYBOARD_UID {0x75, 0x19, 0x3F, 0xE0, 0xBC, 0x23, 0x9D, 0xDF}
+
+//#define VIAL_UNLOCK_COMBO_ROWS { 0, 0 }
+//#define VIAL_UNLOCK_COMBO_COLS { 0, 5 }
+
+#define WS2812_DI_PIN GP16
+#define RGBLED_NUM 1
+// #define RGB_MATRIX_LED_COUNT 1
+#define NOP_FUDGE 0.4
+
+#define WS2812_PIO_USE_PIO1
+//#define WS2812_BYTE_ORDER WS2812_BYTE_ORDER_RGB
+// 
+// #define RGB_MATRIX_FRAMEBUFFER_EFFECTS
+// #define RGB_MATRIX_KEYPRESSES
+
+#define DYNAMIC_KEYMAP_LAYER_COUNT 8
+
+//#define BILATERAL_COMBINATIONS
