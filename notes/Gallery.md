@@ -1,5 +1,10 @@
 # Gallery
 ## Photos
+![Artsy photo](../images/photos/20231126-IMG_1962.jpg)
+![Top down view](../images/photos/20231126-IMG_1960.jpg)
+![Front angle view](../images/photos/20231126-IMG_1959.jpg)
+![Another top down view](../images/photos/20231126-IMG_1958.jpg)
+![Artsy angle view](../images/photos/20231126-IMG_1954.jpg)
 ![Both halves](../images/photos/20231110-IMG_1940.jpg)
 ![Left half](../images/photos/20231110-IMG_1943.jpg)
 ![Right half](../images/photos/20231110-IMG_1944.jpg)

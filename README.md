@@ -1,6 +1,6 @@
 # Shifty Split Keyboard
 
-![Photo of my Shifty Split keyboard](./images/photos/20231110-IMG_1940.jpg)
+![Photo of my Shifty Split keyboard](images/photos/20231126-IMG_1962.jpg)
 
 ## 📻 Project Description
 
@@ -10,10 +10,10 @@ I liked the [Void Ergo S](https://github.com/victorlucachi/void_ergo), but I wan
 
 [Continue reading...](notes/Design.md)
 
-![Render of the Shifty Split keyboard](./images/renders/202310282347.png)
+![Photo of my Shifty Split keyboard](./images/photos/20231110-IMG_1940.jpg)
+
 
 ## 🧰 Features
-
 - 22×2 keys
 - 2× RP2040 microcontrollers w/ USB-C on each side
 - Split via TRS cable
